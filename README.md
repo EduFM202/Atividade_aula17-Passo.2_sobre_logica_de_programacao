@@ -1,1 +1,1 @@
-# Atividade_aula17-Passo.2_sobre_logica_de_programacao
+# Atividade da aula17 - Passo 2 sobre logica de programação
